@@ -1,4 +1,5 @@
 #include "binary_trees.h"
+
 /**
  * binary_tree_depth - function that goes through a
  * binary tree using post-order traversal
